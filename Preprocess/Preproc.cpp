@@ -41,6 +41,8 @@ void Preprocessor::preprocessing(const std::string& file_name) {
     }else {
         std::cout << "Eror";
     }
+    fin.close();
+    fout.close();
 }
 
 void Preprocessor::cuts(std::string& line) {
