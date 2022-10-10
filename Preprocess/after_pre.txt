@@ -1,0 +1,10 @@
+
+
+int main() {
+    int number = 5;
+
+        ++number;
+
+
+    int op = X;
+}
